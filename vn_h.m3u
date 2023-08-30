@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SDTVHTV3.vn",HTV 3 (480p)
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="SDTVHTV2.vn",HTV 2 (1080p)
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvdigitalvtv1.vn",VTV 1 (1080p)
+https://vtvgolive-vtv.vtvdigital.vn/3xvDIeXP67zpn2kAg8CcZQ/1693392196/vtvdigital/vtv1-manifest.m3u8
+#EXTINF:-1 tvg-id="vtvdigitalvtv3.vn",VTV 3 (1080p)
+https://vtvgolive-vtv.vtvdigital.vn/3rmKLNu_1hwBxzqE22WUGg/1693392063/vtvdigital/vtv3-manifest.m3u8
 #EXTINF:-1 tvg-id="BacGiangTV.vn",Bac Giang TV (1080p)
 https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="BacNinhTV.vn",Bac Ninh TV (720p)
