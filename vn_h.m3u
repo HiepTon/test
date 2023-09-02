@@ -5,14 +5,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="SDTVThuanViet.vn" group-title="VIE",Thuan Viet (1080p)
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ftpplayVTV1.vn" group-title="VIE",VTV 1 (720p)
-https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfdmhscy5zbWlsfG90aGVyfDE2OTM0NzMyMjl8MTE5LjgyLjEzOS4xMDJ8ZjQ0OTY4N2ViZGM3MWI1MTE1MDBjM2NlY2I3NmE4MjA/fnxhd1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NhanDanTV.vn" group-title="VIE",Nhan Dan TV (720p)
 https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
-#EXTINF:-1 tvg-id="NingTV.la" group-title="VIE",Ning TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PNTV.us" group-title="VIE",PNTV (720p)
-https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" group-title="VIE",QPVN (720p)
 http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" group-title="VIE",Quang Ngai TV (720p)
@@ -27,11 +21,6 @@ https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" group-title="VIE",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-id="TeaTV.vn" group-title="VIE",Tea TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TeaTVKhmer.vn" group-title="VIE",Tea TV 2 (720p)
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="8TV.lv" tvg-logo="https://i.imgur.com/F8P8GY3.png" group-title="Undefined",8TV (1080p)
 http://89.254.128.5:22280/8tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="KERODT1.us" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="Undefined",23 ABC Bakersfield CA (KERO) (720p)
@@ -2765,12 +2754,11 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Рада ТВ (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="TVX",ATV.net A (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" group-title="TVX",ATV.net A (720p)
 https://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="TVX",ATV.net Asian (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" group-title="TVX",ATV.net Asian (720p)
 https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="TVX",ATV.net Big As (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" group-title="TVX",ATV.net Big As (720p)
 https://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="TVX",ATV.net Big D (720p)
 https://cdn.adultiptv.net/bigdick.m3u8
